@@ -1,14 +1,10 @@
-# Welcome to your Lovable project
-
-## Project info
+##  Hack'Em Project info
 
 **URL**: https://lovable.dev/projects/330c4259-c54d-4be7-be57-a4a7014ee50b
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/330c4259-c54d-4be7-be57-a4a7014ee50b) and start prompting.
 
@@ -63,10 +59,6 @@ This project is built with:
 ## How can I deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/330c4259-c54d-4be7-be57-a4a7014ee50b) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
